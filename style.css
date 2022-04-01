@@ -1,0 +1,21 @@
+html{
+    color:blueviolet;
+}
+input:in-range{
+    border:2px solid green;
+}
+input:out-of-range{
+    border: 2px solid red;
+}
+input:in-range{
+    background-color: rgb(47, 255, 203);
+}
+input:out-of-range{
+    background-color: orange;
+}
+input:focus{        input:in range{
+    border:2px solid orange
+}
+html{
+    background-color: rosybrown;
+}
